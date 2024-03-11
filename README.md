@@ -4,7 +4,7 @@ Welcome to the *ClearTheGrid* Code Competion repo.
 
 ## Game
 
-The idea and rules of the game can be found [here](GAME.md)
+The idea and rules of the game can be found [here](docs/README.md)
 
 ## Goal :goal_net: 
 

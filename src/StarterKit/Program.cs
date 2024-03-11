@@ -22,7 +22,7 @@ namespace StarterKit
         {
 
             //You might want to change this your own level path? :-)
-            string LevelPath = "../../../../../Levels/";
+            string LevelPath = "../../../../../lvls/";
 
             for (int level = 1; level < 100; level++)
             {
